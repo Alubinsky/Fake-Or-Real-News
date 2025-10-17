@@ -323,5 +323,3 @@ Have questions or suggestions? Reach out!
 - **GitHub Issues**: [Report a bug or request a feature](https://github.com/Alubinsky/Fake-Or-Real-News/issues)
 
 ---
-
-**Made by Adam Lubinsky**
